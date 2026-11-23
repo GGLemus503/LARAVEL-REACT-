@@ -1,0 +1,6 @@
+/backend/vendor/
+/backend/.env
+/reactapp/node_modules/
+/reactapp/.env
+/reactapp/dist/
+/reactapp/build/
